@@ -14,6 +14,20 @@
 
 
 
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorprime2004&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorprime2004&layout=compact&theme=tokyonight"/>
+</div>
+
+
+
+
+
+
        
 
 
