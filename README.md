@@ -26,22 +26,24 @@
 
 
 
+
 ## 📬 Contatos
 
 <p align="left">
-  <a href="mailto:victormazrio@gmail.com">
-    <img src="./assets/contact-gmail.svg" alt="Gmail"/>
+  <a href="mailto:victormazrio@gmail.com" style="text-decoration:none;">
+    <img src="./assets/contact-gmail.svg" alt="Gmail" style="display:block;"/>
   </a>
-  <a href="https://www.instagram.com/vitinho_santanna2004/">
-    <img src="./assets/contact-instagram.svg" alt="Instagram"/>
+  <a href="https://www.instagram.com/vitinho_santanna2004/" style="text-decoration:none;">
+    <img src="./assets/contact-instagram.svg" alt="Instagram" style="display:block;"/>
   </a>
-  <a href="https://www.linkedin.com/in/victor-marinho-4a020934b/" target="_blank">
-    <img src="./assets/contact-linkedin.svg" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/victor-marinho-4a020934b/" target="_blank" style="text-decoration:none;">
+    <img src="./assets/contact-linkedin.svg" alt="LinkedIn" style="display:block;"/>
   </a>
-  <a href="./assets/Curriculo.pdf" target="_blank">
-    <img src="./assets/contact-curriculo.svg" alt="Currículo"/>
+  <a href="./assets/Curriculo.pdf" target="_blank" style="text-decoration:none;">
+    <img src="./assets/contact-curriculo.svg" alt="Currículo" style="display:block;"/>
   </a>
 </p>
+
 
 
 
