@@ -32,15 +32,12 @@
   <a href="mailto:victormazrio@gmail.com">
     <img src="./assets/contact-gmail.svg" alt="Gmail"/>
   </a>
-  
   <a href="https://www.instagram.com/vitinho_santanna2004/">
     <img src="./assets/contact-instagram.svg" alt="Instagram"/>
   </a>
-  
   <a href="https://www.linkedin.com/in/victor-marinho-4a020934b/" target="_blank">
     <img src="./assets/contact-linkedin.svg" alt="LinkedIn"/>
   </a>
-  
   <a href="./assets/Curriculo.pdf" target="_blank">
     <img src="./assets/contact-curriculo.svg" alt="Currículo"/>
   </a>
