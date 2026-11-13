@@ -28,19 +28,19 @@
 
 <p align="left">
   <a href="mailto:victormazrio@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   
   <a href="https://www.instagram.com/vitinho_santanna2004/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   
   <a href="www.linkedin.com/in/victor-marinho-4a020934b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
   <a href="./assets/Curriculo.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Currículo-181717?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Currículo"/>
+    <img src="https://img.shields.io/badge/Curr%C3%ADculo-333333?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo"/>
   </a>
 </p>
 
