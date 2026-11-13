@@ -35,13 +35,14 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   
-  <a href="www.linkedin.com/in/victor-marinho-4a020934b" target="_blank">
+  <a href="https://www.linkedin.com/in/victor-marinho-4a020934b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
   <a href="./assets/Curr%C3%ADculo%20Victor%20Marinho%20Azeredo.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Curr%C3%ADculo-333333?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo"/>
-</a>
+    <img src="https://img.shields.io/badge/Curr%C3%ADculo-333333?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo"/>
+  </a>
+
 </p>
 
 
