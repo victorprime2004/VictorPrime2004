@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="40" viewBox="0 0 140 40">
+<rect width="140" height="40" rx="7" fill="#333333"/>
+<path d="M15 10h11l5 5v15H15z" fill="none" stroke="#fff" stroke-width="2" stroke-linejoin="round"/>
+<path d="M26 10v6h5M19 21h8M19 25h8" fill="none" stroke="#fff" stroke-width="1.7" stroke-linecap="round"/>
+<text x="40" y="25" fill="#fff" font-family="Arial,sans-serif" font-size="14" font-weight="700">Currículo</text>
+</svg>
