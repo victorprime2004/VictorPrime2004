@@ -14,11 +14,16 @@
 
 
 ## Contatos:
+
 <div>
 <a href="https://www.instagram.com/vitinho_santanna2004/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 <a href = "mailto: victormazrio@gmail.com" ><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="www.linkedin.com/in/victor-marinho-4a020934b" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+
+
+<div class="tenor-gif-embed" data-postid="3417075" data-share-method="host" data-aspect-ratio="1.66667" data-width="100%"><a href="https://tenor.com/view/bruce-almighty-comedy-jim-carrey-angry-typing-gif-3417075">Angry Typing GIF</a>from <a href="https://tenor.com/search/bruce+almighty-gifs">Bruce Almighty GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
