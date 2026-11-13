@@ -21,13 +21,26 @@
 
 
 
-## Contatos:
 
-<div>
-<a href="https://www.instagram.com/vitinho_santanna2004/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-<a href = "mailto: victormazrio@gmail.com" ><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/victor-marinho-4a020934b" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+## 📬 Contatos:
+
+<p align="left">
+  <a href="mailto: victormazrio@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="28" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="(https://www.instagram.com/vitinho_santanna2004/)" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="SEU_LINKEDIN" target="_blank">
+    <img src="www.linkedin.com/in/victor-marinho-4a020934b" width="28" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="file:///C:/Users/victor.anna/Downloads/Curri%CC%81culo%20Victor%20Marinho%20Azeredo.pdf" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/744/744316.png" width="28" alt="Currículo"/>
+  </a>
+</p>
 
 
 
