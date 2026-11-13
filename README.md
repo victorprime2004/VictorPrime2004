@@ -24,7 +24,7 @@
 
 
 <p align="center">
-  <img src="https://media.tenor.com/9X9lT9pVjWAAAAAC/angry-typing.gif" width="400">
+  <img src="[https://media.tenor.com/9X9lT9pVjWAAAAAC/angry-typing.gif](https://media1.tenor.com/m/yIZU4XQqO_MAAAAd/bruce-almighty-comedy.gif)" width="400">
 </p>
 
 
