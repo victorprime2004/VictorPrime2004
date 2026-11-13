@@ -23,7 +23,9 @@
 
 
 
-<div class="tenor-gif-embed" data-postid="3417075" data-share-method="host" data-aspect-ratio="1.66667" data-width="100%"><a href="https://tenor.com/view/bruce-almighty-comedy-jim-carrey-angry-typing-gif-3417075">Angry Typing GIF</a>from <a href="https://tenor.com/search/bruce+almighty-gifs">Bruce Almighty GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="https://media1.tenor.com/m/yIZU4XQqO_MAAAAd/bruce-almighty-comedy.gif" width="400" alt="Jim Carrey Angry Typing">
+</p>
 
 
 
