@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-  <a href="./assets/Curr%C3%ADculo%20Victor%20Marinho%20Azeredo.pdf" target="_blank">
+  <a href="./assets/Curriculo.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Curr%C3%ADculo-333333?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo"/>
   </a>
 
