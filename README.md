@@ -2,7 +2,7 @@
 
 ## Olá, meu nome é Victor 😁 !
 ## Bem vindo ao meu perfil do Github
-## Eu estudo Ánalise e Desenvolvimento de Sistema 💻, no Senac/Cinelândia - Centro do Rio
+## Eu estudo Ánalise e Desenvolvimento de Sistema 💻, no Senac/Cinelândia - Centro do Rio de Janeiro
 ## 🏠 Moro no Rio de Janeiro em Copacabana 
 
 
