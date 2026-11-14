@@ -20,7 +20,7 @@
 
 
 
- # Gosto de aprender coisas novas, tento me esforaisçar no que necessitar, ajudo os outros e gosto de saber 😉
+  Gosto de aprender coisas novas, tento me esforaisçar no que necessitar, ajudo os outros e gosto de saber 😉
 
 
 
