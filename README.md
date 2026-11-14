@@ -20,8 +20,7 @@
 
 
 
-  Gosto de aprender coisas novas, tento me esforaisçar no que necessitar, ajudo os outros e gosto de saber 😉
-
+<p style="color: #FACC15;">Gosto de aprender coisas novas, tento me esforaisçar no que necessitar, ajudo os outros e gosto de saber 😉</p>
 
 
 
