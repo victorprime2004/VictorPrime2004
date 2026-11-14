@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/victorprime2004">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF"
-      height="55"/>
+      height="64"/>
   </a>
 </p>
 
