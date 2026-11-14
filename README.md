@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1500&color=00BFFF&center=true&vCenter=true&width=650&lines=Vamos+programar+juntos!+%F0%9F%92%99" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1500&color=00BFFF&center=true&vCenter=true&width=650&lines=Bora+programar%3F+%F0%9F%92%BB" alt="Bora programar?" />
 </p>
 
 
